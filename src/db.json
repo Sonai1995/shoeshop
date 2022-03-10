@@ -1,0 +1,98 @@
+[
+    {
+    "id": 1,
+    "title": "Step Away - Shoe One",
+    "price": 509,
+    "size": 37,
+    "category": "Flip Flops",
+    "image": "s1.jpg"
+    },
+    {
+    "id": 2,
+    "title": "Stringalong - Shoe Two",
+    "price": 1222,
+    "size": 42,
+    "category": "Sneakers",
+    "image": "s2.jpg"    
+    },
+    {
+    "id": 3,
+    "title": "Dance Togs - Three",
+    "price": 3155,
+    "size": 42,
+    "category": "Lace-up Shoes",
+    "image": "s3.jpg"
+    },
+    {
+    "id": 4,
+    "title": "Foot Forward - Four",
+    "price": 2515,
+    "size": 44,
+    "category": "Shoes Accesories",
+    "image": "s4.jpg"
+    },
+    {
+    "id": 5,
+    "title": "City Gear",
+    "price": 1599,
+    "size": 50,
+    "category": "Lace-up Shoes",
+    "image": "s5.jpg"
+    },
+    {
+    "id": 6,
+    "title": "Infinity Shoes",
+    "price": 2515,
+    "size": 44,
+    "category": "Shoes Accesories",
+    "image": "s6.jpg"
+    },
+    {
+    "id": 7,
+    "title": "Minas Shoes",
+    "price": 800,
+    "size": 35,
+    "category": "Flip Flops",
+    "image": "s7.jpg"
+    },
+    {
+    "id": 8,
+    "title": "Toes To Trust",
+    "price": 6515,
+    "size": 41,
+    "category": "Lace-up Shoes",
+    "image": "s8.jpg"
+    },
+    {
+    "id": 9,
+    "title": "Lovely Shoe Nine",
+    "price": 3815,
+    "size": 33,
+    "category": "Lace-up Shoes",
+    "image": "s9.jpg"
+    },
+    {
+    "id": 10,
+    "title": "Shoe #10",
+    "price": 5515,
+    "size": 38,
+    "category": "Sneakers",
+    "image": "s10.jpg"
+    },
+    {
+    "id": 11,
+    "title": "Shoe #11",
+    "price": 915,
+    "size": 30,
+    "category": "Shoes Accesories",
+    "image": "s11.jpg"
+    },
+    {
+    "id": 12,
+    "title": "Alebela Tweleve",
+    "price": 4500,
+    "size": 40,
+    "category": "Sneakers",
+    "image": "s12.jpg"
+    }
+    ]
