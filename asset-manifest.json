@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoeshop/static/css/main.9077923b.css",
+    "main.js": "/shoeshop/static/js/main.7c1129be.js",
+    "static/js/787.34115356.chunk.js": "/shoeshop/static/js/787.34115356.chunk.js",
+    "index.html": "/shoeshop/index.html",
+    "main.9077923b.css.map": "/shoeshop/static/css/main.9077923b.css.map",
+    "main.7c1129be.js.map": "/shoeshop/static/js/main.7c1129be.js.map",
+    "787.34115356.chunk.js.map": "/shoeshop/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9077923b.css",
+    "static/js/main.7c1129be.js"
+  ]
+}
